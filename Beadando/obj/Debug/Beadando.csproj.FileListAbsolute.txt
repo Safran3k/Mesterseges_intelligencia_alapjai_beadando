@@ -1,0 +1,21 @@
+C:\Users\Futo Richard\Desktop\Negyedik félév\Mesterséges intelligencia alapjai ea\Beadando\Beadando\bin\Debug\Beadando.exe.config
+C:\Users\Futo Richard\Desktop\Negyedik félév\Mesterséges intelligencia alapjai ea\Beadando\Beadando\bin\Debug\Beadando.exe
+C:\Users\Futo Richard\Desktop\Negyedik félév\Mesterséges intelligencia alapjai ea\Beadando\Beadando\bin\Debug\Beadando.pdb
+C:\Users\Futo Richard\Desktop\Negyedik félév\Mesterséges intelligencia alapjai ea\Beadando\Beadando\obj\Debug\Beadando.csproj.AssemblyReference.cache
+C:\Users\Futo Richard\Desktop\Negyedik félév\Mesterséges intelligencia alapjai ea\Beadando\Beadando\obj\Debug\Beadando.csproj.CoreCompileInputs.cache
+C:\Users\Futo Richard\Desktop\Negyedik félév\Mesterséges intelligencia alapjai ea\Beadando\Beadando\obj\Debug\Beadando.exe
+C:\Users\Futo Richard\Desktop\Negyedik félév\Mesterséges intelligencia alapjai ea\Beadando\Beadando\obj\Debug\Beadando.pdb
+C:\Users\Futo Richard\Desktop\Negyedik félév\_VIZSGÁKRA\MestInt ea\Beadando_ketszemelyes\Beadando\bin\Debug\Beadando.exe.config
+C:\Users\Futo Richard\Desktop\Negyedik félév\_VIZSGÁKRA\MestInt ea\Beadando_ketszemelyes\Beadando\bin\Debug\Beadando.exe
+C:\Users\Futo Richard\Desktop\Negyedik félév\_VIZSGÁKRA\MestInt ea\Beadando_ketszemelyes\Beadando\bin\Debug\Beadando.pdb
+C:\Users\Futo Richard\Desktop\Negyedik félév\_VIZSGÁKRA\MestInt ea\Beadando_ketszemelyes\Beadando\obj\Debug\Beadando.csproj.AssemblyReference.cache
+C:\Users\Futo Richard\Desktop\Negyedik félév\_VIZSGÁKRA\MestInt ea\Beadando_ketszemelyes\Beadando\obj\Debug\Beadando.csproj.CoreCompileInputs.cache
+C:\Users\Futo Richard\Desktop\Negyedik félév\_VIZSGÁKRA\MestInt ea\Beadando_ketszemelyes\Beadando\obj\Debug\Beadando.exe
+C:\Users\Futo Richard\Desktop\Negyedik félév\_VIZSGÁKRA\MestInt ea\Beadando_ketszemelyes\Beadando\obj\Debug\Beadando.pdb
+C:\Users\Futo Richard\Desktop\Beadando_ketszemelyes\Beadando\bin\Debug\Beadando.exe.config
+C:\Users\Futo Richard\Desktop\Beadando_ketszemelyes\Beadando\bin\Debug\Beadando.exe
+C:\Users\Futo Richard\Desktop\Beadando_ketszemelyes\Beadando\bin\Debug\Beadando.pdb
+C:\Users\Futo Richard\Desktop\Beadando_ketszemelyes\Beadando\obj\Debug\Beadando.csproj.AssemblyReference.cache
+C:\Users\Futo Richard\Desktop\Beadando_ketszemelyes\Beadando\obj\Debug\Beadando.csproj.CoreCompileInputs.cache
+C:\Users\Futo Richard\Desktop\Beadando_ketszemelyes\Beadando\obj\Debug\Beadando.exe
+C:\Users\Futo Richard\Desktop\Beadando_ketszemelyes\Beadando\obj\Debug\Beadando.pdb
