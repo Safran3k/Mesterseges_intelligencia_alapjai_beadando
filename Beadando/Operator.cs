@@ -36,10 +36,10 @@ namespace Beadando
                 int szomszedSor = Sor + lehetsegesElmozdulas.x;
                 int szomszedOszlop = Oszlop + lehetsegesElmozdulas.y;
 
-                if (szomszedSor >= 1 && szomszedSor < 7 && szomszedOszlop >= 1 && szomszedOszlop < 8 &&
+                if (allapot.JatekTerenBelul(szomszedSor, szomszedOszlop) && 
                     allapot.JatekTer[szomszedSor, szomszedOszlop] == allapot.AktJatekos)
                 {
-                    allapot.JatekTer[szomszedSor, szomszedOszlop] = 'x';
+                    allapot.JatekTer[szomszedSor, szomszedOszlop] = allapot.ToroltMezo;
                     return true;
                 }
             }
