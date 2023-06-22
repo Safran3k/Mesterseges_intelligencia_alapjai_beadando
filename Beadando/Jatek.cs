@@ -35,13 +35,14 @@ namespace Beadando
         private Allapot JatekosMozgas(Allapot aktAllapot)
         {
             Operator op = null;
-            int sor = aktAllapot.JatekosPozicioja()[0];
-            int oszlop = aktAllapot.JatekosPozicioja()[1];
-            int ujSor = sor;
-            int ujOszlop = oszlop;
-
+            
             while (op == null || !op.AlkalmazhatoE(aktAllapot))
             {
+                int sor = aktAllapot.JatekosPozicioja()[0];
+                int oszlop = aktAllapot.JatekosPozicioja()[1];
+                int ujSor = sor;
+                int ujOszlop = oszlop;
+                
                 ConsoleKeyInfo key = Console.ReadKey();
                 Console.WriteLine();
                 switch (key.KeyChar)
